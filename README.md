@@ -39,26 +39,3 @@ yarn install
 yarn run start
 
 ```
-
-​
-@jaihan
-Commit changes
-Commit summary
-Update README.md
-Optional extended description
-Add an optional extended description…
- Commit directly to the master branch.
- Create a new branch for this commit and start a pull request. Learn more about pull requests.
- 
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
