@@ -26,6 +26,7 @@
 
 ```
 cd /backend
+yarn install
 yarn run start
 
 ```
@@ -34,6 +35,7 @@ yarn run start
 
 ```
 cd /frontend
+yarn install
 yarn run start
 
 ```

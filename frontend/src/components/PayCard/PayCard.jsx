@@ -30,7 +30,7 @@ export default function AutoGrid() {
             <CardActionArea>
               <CardContent>
                 <Typography gutterBottom variant="h5" component="h2">
-                <img src="static/images/scan.png" width="200" height="200"/>
+                <img src="static/images/scan.png" alt="scan" width="200" height="200"/>
                 </Typography>
                 <Typography gutterBottom variant="h5" component="h2">
                   <b>Scan & Pay</b>
@@ -48,7 +48,7 @@ export default function AutoGrid() {
             <CardActionArea>
               <CardContent>
                 <Typography gutterBottom variant="h5" component="h2">
-                <img src="static/images/claim.png" width="200" height="200"/>
+                <img src="static/images/claim.png" alt="claim" width="200" height="200"/>
                 </Typography>
                 <Typography gutterBottom variant="h5" component="h2">
                   <b>Submit Claim</b>
