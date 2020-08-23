@@ -1,4 +1,4 @@
-# health-app-example
+# Health app example using node.js and react.js
 
 ## Technologies​
 
@@ -22,20 +22,5 @@
     
    
 
-#### Run back end
-
-```
-cd /backend
-yarn install
-yarn run start
-
-```
-
-#### Run front end
-
-```
-cd /frontend
-yarn install
-yarn run start
 
 ```
