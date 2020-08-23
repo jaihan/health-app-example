@@ -1,4 +1,3 @@
-# Health app example using node.js and react.js
 
 ## Technologies​
 
